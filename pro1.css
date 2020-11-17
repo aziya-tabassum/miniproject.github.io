@@ -1,0 +1,31 @@
+p {
+    font-family: 'BebasNeueBold';
+    font-weight: normal;
+    font-style: normal;
+    color: green;
+ }
+
+ h1 {
+    font-family: 'GlacialIndifferenceRegular';
+    font-weight: normal;
+    font-style: normal;
+    color: goldenrod;
+ }
+
+ h2 {
+    font-family: 'THSarabunNewRegular';
+    font-weight: normal;
+    font-style: normal;
+    color: indigo;
+ }
+
+ img{
+     display: block;
+     max-width: 250px;
+     max-height: 95px;
+     width: auto;
+     height: auto;
+ }
+
+
+
